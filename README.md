@@ -17,6 +17,3 @@ Install recommended addons
 5. Restart firefox
 
 ## Credits
-Based off of
-- Bloom
-- Fluent
